@@ -18,6 +18,7 @@ public class ceshi01 {
 				}
 			}
 		}.start();
+		//nihao 
 		new Thread() {
 			// 线程2
 			public void run() {
